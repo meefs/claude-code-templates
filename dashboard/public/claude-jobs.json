@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T07:27:19.195542+00:00",
-  "totalJobs": 84,
+  "lastUpdated": "2026-06-09T11:19:37.507823+00:00",
+  "totalJobs": 85,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,26 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5251609008",
+      "company": "Anthropic",
+      "position": "Technical Program Manager, Apps Platform",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic is investing in shared platform capabilities that power Claude across our consumer and developer products: the common foundation that Claude, Cowork, Claude Code, and future surfaces are built on. We're hiring a Technical Program Manager to be the connective tissue for this effort,...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
+      "postedAt": "2026-06-09T04:24:59-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "rok-remote-data-analyst-stior-1132903",
       "company": "StioÂ®",
